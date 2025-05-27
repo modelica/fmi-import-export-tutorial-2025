@@ -1,0 +1,5 @@
+build/
+export/binaries/
+model/binaries/
+model/*.fmu
+Reference-FMUs-0.0.39/
