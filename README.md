@@ -61,7 +61,9 @@ Developers who want to import or export models as FMUs or couple their tool to o
 
 Challenges:
 
+- extract the FMU
 - read & validate model description
+- validate structured variable names
 - check return codes
 - log messages
 - log API calls
@@ -74,3 +76,4 @@ Challenges:
 
 ## Tips & Tricks
 
+- debug import and export with Visual Studio
